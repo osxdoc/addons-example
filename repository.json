@@ -1,5 +1,5 @@
 {
-  "name": "Hass.IO example add-on repository",
-  "url": "https://home-assistant.io/",
+  "name": "OwnUpdatedBitwarden",
+  "url": "https://github.com/osxdoc/addon-bitwarden",
   "maintainer": "HomeAssistant <info@home-assistant.io>"
 }
